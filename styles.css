@@ -1,0 +1,15 @@
+#header {
+	background-color: #e6e6e6;
+}
+
+p {
+	font: 16px sans-serif;
+}
+
+.black {
+	color: black;
+}
+
+.underlined {
+	border-bottom: 1px solid black;
+}
